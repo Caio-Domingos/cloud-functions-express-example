@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "weburn-voucher-dispenser-v2",
+  "private_key_id": "230005807d5bce0af7d3f95b95733bf1d832bf68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPxKYZLWrzJxcw\nBYFnzMIeDOX0gStKLVdyOQ7b8J0eqt4ML/I1YwA3mQppL2KEK42Yh9RMPmzP3uC2\n0r3Yzfs7PCxmBAnCbiYZyT5uxB1/SMxvXVYBVi3MJ0YI2ntot1JjlFyogrAAaZu8\neQMpmU9zIcsIQyjwcjZfQi5b/dAhc6PSDpLAJ58xOhGmbcXwPrgZkDRDpHXLVGVI\nCfLpBhPPBL/0BUugQIgpMP6+CoS4Zhi5M81nKSQs2vyNAPyfK2jp972iXITQxkJF\nngKrCSGM2xZGeY+LPDCbkVHDq+NVkpSEhwf2fiRTUpfRDmN0Zd2yb4kmKBY7wjPG\nK/Q2Cj2pAgMBAAECggEAAzowwk9cS+6dg5dyTSR3F3Rn1gZzn7FYnGOagXwZVLKe\nxF2yS3YAONzdtoiP5TGv/2CMwapukkQKBYz8efOpJWBn6CXD6QtA+EGSALJ3KtT8\np/YxMdAe4f7yLY0HQbcnRni1f8CX70m0q5bNn8XL4CP0PWqdpi5//bbPdYpZw0s7\nX9TG3SrSERt/MhoqJ/EeMDDBxFrpOBs1JUP5zGKjJVBliEWqBnMBpvu6AsEKSvSn\nnmXVN4qv+X01yRL1uJM/j6tKEP8/tOmsUX3g8i65QICRpHzDvO8K82AwRhNENp+3\nF15cdFSw01GGlklN7LZQUjcfFgl/cPLLjGbx+uF0oQKBgQD2uZ9Uh7nQiByEh0to\nFU9umXtdxj1cv8w0+la6oJV9K7EevEs6EL5CNs65kfFZw1P84Htu9MnTbCrXY18W\nVSv7/NRSTkdbGKJo4HeQY9K68/WZdFYlFIXQKIpgqQ9sOSYwpBi35e9jJiLUYXrn\nBYxYTFF1BLR7J/ubb2xER40GDQKBgQDXlB8ZhPTKJvY+w0F8AVddSgdE28lHkDPh\nuY07NbigtYw/+xKDMrULm4e9wjcU1CQSBqBTCUfMbump3oGC0o46ZqM7+rr1X0Y+\nMczPz5gdXJZ9DuR9psyJFTFHCqHs1ARaDFMyuEECjquDGxu7TBYeKWatvbikBKC/\nxUXgwt/rDQKBgCq8jHS/7dfJO+dY6B7nUhL+UvgzVn2yW1Tx6AP7vOkpoEyKoR01\nuT8O71AFj6DUzL+Iwti9XhhZLDKS6+2aYzwK11xKYuHMqpUwDIXeRKpNh8VE+YcC\nvwsHerCzmBBO9eaHBiEUmxq5iF7xY7CQrXa+AX4bioeqrVKHQmGxYyQhAoGBAMvE\nLCk47RBvB26HrMwDkIqTQI+rl3NXMFL5yi7fNmZhc/G95d+w/EO+fO22N84uPvHy\n5XPXX9AyPhbcRFpdnyZAgaZd9n2b0o9TDx6WQFfwfiYy/3JtSQOBzpQxzqBGPt7G\nq5VTZ898/0zrQKkm3/kedPlgTLhrz220j7pFONW5AoGAeiZurI3iXt8c5qFCKlgs\nIwlJApZwpj2R1I+NN1WLbpBO9RHjx16Sizl4+NaXgXvQRL0fk0gTQ0Gro/ogz96v\nKE4zVAzIU1PLp20YK/eqs9IplMQndfqMnqRhQPeVhy3aRLk1CVliZ4AM+6QmhWw9\n7W7ECiJLcJnkruqzQBlHDnU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d6p11@weburn-voucher-dispenser-v2.iam.gserviceaccount.com",
+  "client_id": "114140557999314855931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d6p11%40weburn-voucher-dispenser-v2.iam.gserviceaccount.com"
+}

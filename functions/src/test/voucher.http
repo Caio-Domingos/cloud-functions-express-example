@@ -1,0 +1,9 @@
+###
+# Test App
+GET http://localhost:5001/weburn-voucher-dispenser-v2/us-central1/api
+
+###
+# Test Voucher Route
+GET http://localhost:5001/weburn-voucher-dispenser-v2/us-central1/api/voucher
+
+
